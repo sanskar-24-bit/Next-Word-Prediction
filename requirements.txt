@@ -2,5 +2,5 @@ Numpy
 Pandas
 Matplotlib
 Seaborn
-Scikit-learn
 Tensorflow
+Streamlit
